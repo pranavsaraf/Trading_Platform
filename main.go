@@ -11,7 +11,6 @@ import (
 
 const (
 	accessToken = ""
-	baseURL     = "https://api.dhan.co"
 )
 
 type Holdings struct {
